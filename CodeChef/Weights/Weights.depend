@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662311286 source:d:\c++ programscodechef\weights\main.cpp
+	<iostream>
+	<vector>
+	<sstream>
+

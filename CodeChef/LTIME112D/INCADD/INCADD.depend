@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1664887640 source:d:\c++ programs\codechef\ltime112d\incadd\main.cpp
+	<iostream>
+	<algorithm>
+	<set>
+
